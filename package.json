@@ -1,0 +1,15 @@
+{
+  "name": "exactspace",
+  "version": "1.0.0",
+  "description": "exactspace company assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Ritik Bhadauria",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

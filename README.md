@@ -32,7 +32,7 @@ This repository contains a Node.js script to search for log files in a directory
 1. Clone this repository to your local machine:
 
    \```sh
-   git clone https://github.com/your-username/log-file-truncation.git
+   git clone https://github.com/Ritikthakur01/Exact-Space-assignment.git
    cd log-file-truncation
    \```
 
